@@ -7,5 +7,5 @@ To install this react app:
 or
 ### `npm install`
 
-Launch the app using following command: 
+3) Launch the app using following command: 
 ### `npm start`
