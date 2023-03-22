@@ -1,4 +1,4 @@
-As the author of the website, I developed a fully responsive site using the React (18.2.0) and Bootstrap (5.2.3) frameworks. I utilized states and props in React to implement dynamic functionality, while leveraging the flexibility and user-friendly nature of Bootstrap to create a visually appealing and easily navigable website. Overall, the combination of these two frameworks allowed me to create a website that is both interactive and visually appealing, offering an excellent user experience.
+ I developed a fully responsive site using the React (18.2.0) and Bootstrap (5.2.3) frameworks. I utilized states and props in React to implement dynamic functionality, while leveraging the flexibility and user-friendly nature of Bootstrap to create a visually appealing and easily navigable website. Overall, the combination of these two frameworks allowed me to create a website that is both interactive and visually appealing, offering an excellent user experience.
 
 Follow these Steps to install this react app:
 
